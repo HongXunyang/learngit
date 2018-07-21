@@ -4,3 +4,4 @@ Git has a mutable index called stage
 My stupid boss still prefers SVN
 hahaha
 not finished
+asdasd
